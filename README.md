@@ -1,6 +1,7 @@
+<img width="1342" height="747" alt="4114" src="https://github.com/user-attachments/assets/6947e1d2-0fdf-4624-8e4d-4fe643aa0607" />
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,50:6366f1,100:06b6d4&height=200&section=header&text=Prodigy%20Companion&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=A%20parent's%20companion%20for%20the%20Prodigy%20Math%20Game&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,50:6366f1,100:06b6d4&height=200&section=header&text=Prodigy%20Hacks&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=A%20parent's%20companion%20for%20the%20Prodigy%20Math%20Game&descAlignY=60&descSize=18" width="100%"/>
 
 <br/>
 
