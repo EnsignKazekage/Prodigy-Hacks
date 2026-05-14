@@ -25,11 +25,11 @@ Prodigy Math Game is a great educational tool but the parent dashboard inside th
 
 You get:
 
-| 📅 **Weekly reports** | See play time, accuracy, and skill mastery over the last 7 days — all in one summary |
-| 🧠 **Skill breakdown** | Instantly see which math standards your child has mastered and which need extra practice |
-| ⏱️ **Screen‑time tracking** | Track daily play time with a configurable limit you set (e.g., 45 min/day) |
-| 📈 **Session history** | Spot patterns in when and how your child plays — time of day, duration, accuracy per session |
-| 📤 **HTML export** | Generate a clean, print‑ready report you can email to a co‑parent, teacher, or grandparent |
+- **Weekly reports** showing play time, accuracy, and skill mastery
+- **Skill breakdown** so you can see which math standards your child has mastered and which need practice
+- **Screen-time tracking** with a configurable daily limit
+- **Session history** to spot patterns in when and how your child plays
+- **HTML export** so you can email a clean report to a co-parent, teacher, or grandparent
 
 ---
 
